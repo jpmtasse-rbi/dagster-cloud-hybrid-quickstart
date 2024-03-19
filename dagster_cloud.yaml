@@ -4,5 +4,5 @@ locations:
       package_name: quickstart_etl
     build:
       directory: ./
-      registry: <account-id>.dkr.ecr.us-west-2.amazonaws.com/<image-name>
+      registry: 045383324482.dkr.ecr.us-east-1.amazonaws.com/dagsterpoc
       # registry: ghcr.io/<org>/<image-name>
